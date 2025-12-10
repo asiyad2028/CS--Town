@@ -1,1 +1,23 @@
+body{
+    background:url(sand-1969-in-architextures.jpg);
+    background-size: 55%;
+    padding:0;
+    Margin:0; 
+}
+#sky{
+    background: linear-gradient(LightskyBlue, rgb(163, 225, 248),rgb(223, 240, 254));
+    height:50%;
+    width:100%; 
+}
 
+
+
+
+
+
+#sun{
+    font-size: 60px;
+    position: absolute;
+    top: 5px;
+    left: 15px; 
+}
